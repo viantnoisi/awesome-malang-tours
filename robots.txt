@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://viantnoisi.github.io/awesome-malang-tours/sitemap.xml
